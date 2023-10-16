@@ -1,2 +1,2 @@
 # gotify
-A wrapper for the Spotify Web API in Go
+A WIP wrapper for the Spotify Web API in Go
